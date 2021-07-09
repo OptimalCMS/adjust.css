@@ -26,6 +26,12 @@ ul {
   font-weight: normal;
 }
 
+button,
+input,
+select {
+  margin: 0;
+}
+
 ol,
 ul {
   list-style: none;
