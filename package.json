@@ -1,0 +1,34 @@
+{
+  "name": "adjust.css",
+  "version": "0.1.0",
+  "homepage": "https://adjust.sysa.ml",
+  "author": {
+    "name": "shoaiyb sysa",
+    "email": "mail@sysa.ml",
+    "url": "https://sysa.ml"
+  },
+  "description": "Modern CSS library",
+  "main": "adjust.css",
+  "style": "adjust.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoaiyb/adjust.css.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "reset",
+    "normalize",
+    "responsive",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/shoaiyb/adjust.css/issues"
+  },
+  "files": [
+    "adjust.css",
+    "adjust.min.css",
+    "LICENSE",
+    "README.md"
+  ]
+}
