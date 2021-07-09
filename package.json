@@ -7,7 +7,7 @@
     "email": "mail@sysa.ml",
     "url": "https://sysa.ml"
   },
-  "description": "Modern CSS library",
+  "description": "Modern CSS reset library",
   "main": "adjust.css",
   "style": "adjust.min.css",
   "repository": {
