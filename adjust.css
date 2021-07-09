@@ -1,5 +1,4 @@
 /*! adjust.css v0.1.0 | MIT License | github.com/shoaiyb/adjust.css */
-
 html {
   box-sizing: border-box;
   font-size: 16px;
@@ -24,6 +23,10 @@ ul {
   margin: 0;
   padding: 0;
   font-weight: normal;
+}
+
+a {
+  background-color: transparent;
 }
 
 button,
