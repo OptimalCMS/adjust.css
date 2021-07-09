@@ -1,6 +1,6 @@
 # adjust.css
 
-![adjust.css]()
+![adjust.css](adjust.svg)
 
 A modern alternative to CSS
 
