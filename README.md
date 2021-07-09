@@ -1,6 +1,8 @@
 # adjust.css
 
-![adjust.css](adjust.svg)
+<p align="center">
+  <img alt="adjust.css" src="adjust.svg" width="100" heigt="100">
+</p>
 
 A modern alternative to CSS
 
