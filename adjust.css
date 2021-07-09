@@ -25,10 +25,10 @@ ul {
   font-weight: normal;
 }
 
-section,
 nav,
 aside,
 article,
+section,
 header,
 footer {
   display: block;
