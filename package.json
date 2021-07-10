@@ -18,9 +18,8 @@
   "keywords": [
     "css",
     "reset",
-    "normalize",
-    "responsive",
-    "framework"
+    "library",
+    "normalize"
   ],
   "bugs": {
     "url": "https://github.com/shoaiyb/adjust.css/issues"
