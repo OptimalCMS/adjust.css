@@ -1,11 +1,9 @@
 # adjust.css
-
-<p align="center">
-  <img alt="adjust.css" src="https://adjust.sysa.ml/adjust.png" width="100" heigt="100">
-</p>
-
 A minimal modern alternative to css resets.
 
+<a href="https://adjust.sysa.ml">
+  <img src="https://adjust.sysa.ml/adjust.png" alt="adjust.css" style="max-width:100%;" width="600">
+</a>
 
 ## Install
 
