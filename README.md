@@ -20,7 +20,7 @@ npm install --save adjust.css
 
 **Download**
 
-See [documentation](https://adjust.sysa.ml/download/)
+See [download](https://adjust.sysa.ml/download/)
 
 
 
