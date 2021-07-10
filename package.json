@@ -7,7 +7,7 @@
     "email": "mail@sysa.ml",
     "url": "https://sysa.ml"
   },
-  "description": "Modern CSS reset library",
+  "description": "A minimal modern alternative to css resets",
   "main": "adjust.css",
   "style": "adjust.min.css",
   "repository": {
