@@ -14,8 +14,23 @@ npm install --save adjust.css
 
 **CDN**
 
-[https://unpkg.com/adjust.css](https://unpkg.com/adjust.css)        
-[https://cdn.jsdelivr.net/npm/adjust.css](https://cdn.jsdelivr.net/npm/adjust.css)
+```sh
+# Unpkg
+https://unpkg.com/adjust.css
+https://unpkg.com/adjust.min.css
+```
+
+```sh
+# jsDelivr
+https://cdn.jsdelivr.net/npm/adjust.css
+https://cdn.jsdelivr.net/npm/adjust.min.css
+```
+
+```sh
+# Adjust
+https://cdn.adjust.ml/npm/adjust.css
+https://cdn.adjust.ml/npm/adjust.min.css
+```
 
 **Download**
 
