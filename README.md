@@ -44,4 +44,3 @@ https://cdn.jsdelivr.net/npm/adjust.css@0.1.0/adjust.css
 ## Contribute
 
 Feel free to fork, tweak and send me a pull request.
-
