@@ -18,13 +18,11 @@ npm install --save adjust.css
 ```sh
 # Unpkg
 https://unpkg.com/adjust.css
-https://unpkg.com/adjust.min.css
 ```
 
 ```sh
 # jsDelivr
 https://cdn.jsdelivr.net/npm/adjust.css
-https://cdn.jsdelivr.net/npm/adjust.min.css
 ```
 
 
