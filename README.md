@@ -1,11 +1,10 @@
 # adjust.css
 A minimal modern alternative to css resets.
 
-<a href="https://adjust.sysa.ml">
-  <img src="https://adjust.sysa.ml/adjust.png" alt="adjust.css" style="max-width:100%;" width="600">
-</a>
+![npm](https://img.shields.io/npm/v/adjust.css)
+![npm](https://img.shields.io/npm/dw/adjust.css)
+![NPM](https://img.shields.io/npm/l/adjust.css)
 
-## Install
 
 **NPM**
 
@@ -15,13 +14,15 @@ npm install --save adjust.css
 
 **CDN**
 
-[unpkg](https://unpkg.com/adjust.css)        
-[jsDelivr](https://cdn.jsdelivr.net/npm/adjust.css)
+[https://unpkg.com/adjust.css](https://unpkg.com/adjust.css)        
+[https://cdn.jsdelivr.net/npm/adjust.css](https://cdn.jsdelivr.net/npm/adjust.css)
 
 **Download**
 
 See [download](https://adjust.sysa.ml/download/)
 
+
+## Overview
 
 
 
