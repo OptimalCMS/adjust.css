@@ -1,4 +1,5 @@
 # adjust.css
+
 A minimal modern alternative to css resets.
 
 ![npm](https://img.shields.io/npm/v/adjust.css)
@@ -47,10 +48,7 @@ See [download](https://github.com/shoaiyb/adjust.css/archive/master.zip)
 - [x] Safari 8+
 
 
-## Contributing
+## Contribute
 
-Please read the [contribution guidelines](https://adjust.sysa.ml/contribute/) in order to make the
-contribution process easy and effective for everyone involved.
-
-
+Feel free to fork, tweak and send me a pull request.
 
