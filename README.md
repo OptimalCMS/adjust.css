@@ -1,4 +1,4 @@
-# adjust.css
+# Adjust.css
 
 A minimal modern alternative to css resets.
 
