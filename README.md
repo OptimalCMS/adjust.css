@@ -34,11 +34,7 @@ https://cdn.adjust.ml/adjust.min.css
 
 **Download**
 
-See [download](https://adjust.sysa.ml/download/)
-
-
-## Overview
-
+See [download](https://github.com/shoaiyb/adjust.css/archive/master.zip)
 
 
 ## Browser support
