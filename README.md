@@ -28,8 +28,8 @@ https://cdn.jsdelivr.net/npm/adjust.min.css
 
 ```sh
 # Adjust
-https://cdn.adjust.ml/npm/adjust.css
-https://cdn.adjust.ml/npm/adjust.min.css
+https://cdn.adjust.ml/adjust.css
+https://cdn.adjust.ml/adjust.min.css
 ```
 
 **Download**
