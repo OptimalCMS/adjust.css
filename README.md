@@ -22,7 +22,7 @@ https://unpkg.com/adjust.css
 
 ```sh
 # jsDelivr
-https://cdn.jsdelivr.net/npm/adjust.css
+https://cdn.jsdelivr.net/npm/adjust.css@0.1.0/adjust.css
 ```
 
 
