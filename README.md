@@ -27,15 +27,10 @@ https://cdn.jsdelivr.net/npm/adjust.css
 https://cdn.jsdelivr.net/npm/adjust.min.css
 ```
 
-```sh
-# Adjust
-https://cdn.adjust.ml/adjust.css
-https://cdn.adjust.ml/adjust.min.css
-```
 
 **Download**
 
-See [download](https://github.com/shoaiyb/adjust.css/archive/master.zip)
+[`adjust.css@master`](https://github.com/shoaiyb/adjust.css/archive/master.zip)
 
 
 ## Browser support
